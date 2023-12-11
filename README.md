@@ -1,0 +1,1 @@
+Hello! This is yet again another project from 'The Odin Project'. This is a web page of a landing page made using CSS Flexbox.
